@@ -104,4 +104,4 @@ This project is free to use and modify.
 
 Author
 
-Ganesh Kanojiya (Zeref)MMM
+Ganesh Kanojiya (Zeref)
